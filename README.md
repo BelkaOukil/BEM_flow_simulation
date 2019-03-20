@@ -1,4 +1,4 @@
-# BEM_flow_simulaiton
+# BEM_flow_simulation
 Comutational fluid mechanics on MATLAB :
 
 The goal is to simulate any kind of flow near or around any kind of obstacle using the Boundary Elements Methods
